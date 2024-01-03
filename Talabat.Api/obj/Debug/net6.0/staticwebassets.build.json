@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ydrDxhwGrXAwkF3Agplo/TFHPrDxftGQ1mRWjtuwHNQ=",
+  "Source": "Talabat.Api",
+  "BasePath": "_content/Talabat.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Talabat.Api\\wwwroot",
+      "Source": "Talabat.Api",
+      "ContentRoot": "D:\\tasks\\Talabat.Api\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\tasks\\Talabat.Api\\Talabat.Api\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "Talabat.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\tasks\\Talabat.Api\\Talabat.Api\\wwwroot\\",
+      "BasePath": "_content/Talabat.Api",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}

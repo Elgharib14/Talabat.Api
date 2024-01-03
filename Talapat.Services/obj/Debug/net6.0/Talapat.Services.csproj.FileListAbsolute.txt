@@ -1,0 +1,15 @@
+D:\tasks\Talabat.Api\Talapat.Services\bin\Debug\net6.0\Talapat.Services.deps.json
+D:\tasks\Talabat.Api\Talapat.Services\bin\Debug\net6.0\Talapat.Services.dll
+D:\tasks\Talabat.Api\Talapat.Services\bin\Debug\net6.0\Talapat.Services.pdb
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.AssemblyInfoInputs.cache
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.AssemblyInfo.cs
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.csproj.CoreCompileInputs.cache
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.dll
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\refint\Talapat.Services.dll
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.pdb
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\ref\Talapat.Services.dll
+D:\tasks\Talabat.Api\Talapat.Services\bin\Debug\net6.0\Talabat.Core.dll
+D:\tasks\Talabat.Api\Talapat.Services\bin\Debug\net6.0\Talabat.Core.pdb
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.csproj.AssemblyReference.cache
+D:\tasks\Talabat.Api\Talapat.Services\obj\Debug\net6.0\Talapat.Services.csproj.CopyComplete
